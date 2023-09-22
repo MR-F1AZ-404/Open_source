@@ -1,3 +1,5 @@
+#coded by : MR FIAZ NIAZI
+#follow my github for more source code
 import os
 from os import system as clr
 import random 
